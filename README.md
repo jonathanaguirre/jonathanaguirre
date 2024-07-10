@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **R/Python Programming**, **Data Analysis**, **ServiceNow**, and **Salesforce**.
+- 🔭 I’m currently working on **R/Python Programming**, **ServiceNow**, and **Salesforce**.
 - 🌱 I’m currently learning **Data Science**.
 - 👯 I’m looking to collaborate on Data Analysis systems.
 - 🤔 I’m looking for help with **Ontology and AI**
