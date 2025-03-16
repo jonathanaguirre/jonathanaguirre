@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Python Programming**, **Machine Learning**, and **Data Science**.
 - 🌱 I’m currently learning **Project Management** and **Vector Calculus**. 
-- 👯 I’m looking to collaborate on "Python Scripts that model motion in 3-D".
+- 👯 I’m looking to collaborate on **Python Scripts that model motion in 3-D**.
 - 🤔 I’m looking for help with **Multivariate Statistics**.
 - 💬 Ask me about **Calculus** and **Salesforce**.
 - 📫 How to reach me: **https://bit.ly/m/jaguirre**.
